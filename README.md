@@ -13,3 +13,20 @@ Kuberantes Objects -> Pods, Replica sets and Deployment
 Kn8 has imperative and declrative commands.
 
 Declarative commands are more organised and help us keep track of the object Configuration across developers
+
+Redhat Openshift combines Kn8 along with other tools that enhance developer experience.
+
+Kubernates is part of wide  ecosystem.
+
+Redhat Openshift:
+  Builds:
+    CI/CD
+    Docker 
+  Triggers:
+    Webhooks 
+    Image Changes
+  Operators: 
+      Custom Resource Definitions(CRD) + custom controllers
+      
+  IStio:
+      Service Mesh: Connect + Observe + Control the connections between micorservices
